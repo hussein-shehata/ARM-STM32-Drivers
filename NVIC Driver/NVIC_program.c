@@ -1,14 +1,14 @@
-/*************************************************************************************************
- * FILE_NAME:  NVIC_source.c
+ /******************************************************************************
  *
- * DATE CREATED: Dec 26, 2021
+ * Module: NVIC
  *
- *  Author:       Hussein Shehata
+ * File Name: NVIC_program.c
  *
- *  Version : V1
+ * Description: Source file for the STM32 NVIC driver
  *
- * DESCRIPTION:  Source file for the RCC driver
- ************************************************************************************************/	
+ * Author: Hussein Shehata
+ *
+ *******************************************************************************/
 
 
 #include "TYPES.h"
