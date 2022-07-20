@@ -1,3 +1,16 @@
+/*************************************************************************************************
+ * FILE_NAME:  PWM_source.c
+ *
+ * DATE CREATED: Feb 20, 2022
+ *
+ *  Author:       Hussein Shehata
+ *
+ *  Version : V1
+ *
+ * DESCRIPTION:  Source file for the PWM driver
+ ************************************************************************************************/	
+
+
 #include "TIMER_interface.h"
 #include "PWM_interface.h"
 

@@ -6,7 +6,7 @@
  *
  * Description: Source file for the STM32 GPIO driver
  *
- * Author: Mohammad Wael
+ * Author: Hussein Shehata
  *
  *******************************************************************************/
 

@@ -1,9 +1,14 @@
-/*
- * stk_program.c
+ /******************************************************************************
  *
- *  Created on: Nov 13, 2021
- *      Author: Hussein
- */
+ * Module: STK
+ *
+ * File Name: STK_program.c
+ *
+ * Description: Source file for the STM32 STK driver
+ *
+ * Author: Hussein Shehata
+ *
+ *******************************************************************************/
 
 #include	"stk_interface.h"
 #include 	"stk_config.h"

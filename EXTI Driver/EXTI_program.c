@@ -1,3 +1,15 @@
+ /******************************************************************************
+ *
+ * Module: EXTI
+ *
+ * File Name: EXTI_program.c
+ *
+ * Description: Source file for the STM32 EXTI driver
+ *
+ * Author: Hussein Shehata
+ *
+ *******************************************************************************/
+
 #include "TYPES.h"
 #include "BIT_MATH.h"
 

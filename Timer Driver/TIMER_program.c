@@ -1,7 +1,14 @@
-/*******************************************
- Author     : Taher Mohamed
- Data       : 13/11/2021
-********************************************/
+ /******************************************************************************
+ *
+ * Module: Timer
+ *
+ * File Name: Timer_program.c
+ *
+ * Description: Source file for the STM32 Timer driver
+ *
+ * Author: Hussein Shehata
+ *
+ *******************************************************************************/
 
 #include "TIMER_interface.h"
 

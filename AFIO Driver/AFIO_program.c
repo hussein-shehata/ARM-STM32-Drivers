@@ -1,3 +1,15 @@
+ /******************************************************************************
+ *
+ * Module: AFIO
+ *
+ * File Name: AFIO_program.c
+ *
+ * Description: Source file for the STM32 AFIO driver
+ *
+ * Author: Hussein Shehata
+ *
+ *******************************************************************************/
+
 #include "TYPES.h"
 #include "BIT_MATH.h"
 
